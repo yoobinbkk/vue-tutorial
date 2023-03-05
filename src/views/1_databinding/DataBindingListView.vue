@@ -6,6 +6,7 @@
       </option>
     </select>
   </div>
+  <!-- 테이블에 넣을 리스트 데이터 -->
 </template>
 
 <script>
